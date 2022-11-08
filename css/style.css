@@ -20,7 +20,7 @@ nav header, .main-section header {
     font-size: 80px;
     font-weight: bolder;
     text-align: center;
-    padding:10px 5px;
+    padding: 10px 5px;
 }
 nav ul li{
     border-bottom:1px solid black;
@@ -28,13 +28,13 @@ nav ul li{
     text-align: center;
 
 }
-nav ul li a{
+nav ul li a {
     text-decoration: none;
     color: black;
     font-size: 20px;
     width: 100%
     display: block;
-    padding: 10px;
+    padding 10px;
 }
 nav a:hover{
     background-color: black;
